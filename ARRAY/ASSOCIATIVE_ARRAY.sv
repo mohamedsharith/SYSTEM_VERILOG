@@ -13,8 +13,9 @@ endmodule
 
 
 
-// __________________________________OUTPUT___________________________________
+/* __________________________________OUTPUT___________________________________
  KERNEL: The values of array a is 33
 # KERNEL: The values of array abc is "mango"
 # KERNEL: The values of array a is '{22:33, 33:44, 41:2}
 # KERNEL: The values of array abc is '{"colour":"banana", "fruits":"apple", "yellow":"mango"}
+*/
